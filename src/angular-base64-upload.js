@@ -1,7 +1,5 @@
 (function(window, undefined) {
 
-  'use strict';
-
   /* istanbul ignore next */
   //http://stackoverflow.com/questions/9267899/arraybuffer-to-base64-encoded-string
   window._arrayBufferToBase64 = function(buffer) {
